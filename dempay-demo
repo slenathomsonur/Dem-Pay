@@ -1,0 +1,18 @@
+dempay-demo/
+├── backend/
+│   ├── .env
+│   ├── package.json
+│   └── server.js
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── Components/
+│   │   │   ├── AddCard.js
+│   │   │   └── Pay.js
+│   │   └── index.js
+│   ├── package.json
+│   └── .env
+├── .gitignore
+└── README.md
